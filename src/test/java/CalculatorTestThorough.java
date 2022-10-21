@@ -6,6 +6,7 @@ import java.util.Set;
 import static org.junit.Assert.*;
 
 public class CalculatorTestThorough {
+//Why doesn't jenkins update automatically??
 
     @Test
     public void addTest(){
