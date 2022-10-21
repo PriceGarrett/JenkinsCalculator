@@ -10,6 +10,7 @@ public class CalculatorTestThorough {
     @Test
     public void addTest(){
         Calculator myCalculator = new Calculator();
+        //Comment so I can push to github
 
         for(int i = 0; i < 2000000000 ; i++){
             int firstNumber = 2000000000 - i;
